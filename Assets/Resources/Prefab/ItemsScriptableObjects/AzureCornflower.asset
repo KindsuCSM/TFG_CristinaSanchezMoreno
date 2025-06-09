@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e75691061f2fcdc439c5281f9009a4b2, type: 3}
+  m_Name: AzureCornflower
+  m_EditorClassIdentifier: 
+  plantId: 1335cd07-0ffb-4f50-94d3-e7b5bb2d407e
+  icon: {fileID: 21300000, guid: 0eee7f7805a2b1e4ea700d8c99506ae2, type: 3}
+  plantName: Azure Cornflower
+  plantDescription: "Es una flor silvestre anual de un color azul vivo e intenso,
+    muy valorada por su belleza sencilla, su resistencia y su simbolismo hist\xF3rico
+    y cultural."
+  cost: 30
+  isStackable: 0
+  growSprites:
+  - {fileID: -1846155603, guid: 138ac2df2bd8bae408c3ece759a10db9, type: 3}
+  - {fileID: -14410925, guid: 138ac2df2bd8bae408c3ece759a10db9, type: 3}
+  - {fileID: -1065992526, guid: 138ac2df2bd8bae408c3ece759a10db9, type: 3}
+  - {fileID: 1128605089, guid: 138ac2df2bd8bae408c3ece759a10db9, type: 3}
+  - {fileID: -195610321, guid: 138ac2df2bd8bae408c3ece759a10db9, type: 3}
+  - {fileID: 1130935397, guid: 138ac2df2bd8bae408c3ece759a10db9, type: 3}

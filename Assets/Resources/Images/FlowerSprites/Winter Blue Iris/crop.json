@@ -1,0 +1,53 @@
+{
+    "Name": "Winter Blue Iris",
+    "Product": "Winter Blue Iris",
+    "SeedName": "Winter Blue Iris Bulb",
+    "SeedDescription": "Plant them in winter. Take 14 days to produce a tiny beautiful flower.",
+    "Type": "Flower",
+
+    "Seasons": ["winter"],
+    "Phases": [2, 2, 3, 3, 4],
+    "RegrowthPhase": -1,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus": {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 1,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0,
+    },
+	"SeedPurchaseFrom": "Sandy",
+    "SeedPurchasePrice": 150,
+    "SeedPurchaseRequirements": [
+    	"y 3",
+],
+    "SeedNameLocalization":
+    {
+        //"es": "",
+        "ko": "푸른 겨울 붓꽃 구근",
+        "de": "Winterblaue Irisbirne",
+		"fr": "Bulbes d'iris d'hiver bleu",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        //"pt": "i",
+        "ru": "Луковица зимнего голубого ириса",
+        //"tr": "",
+        "zh": "冬季蓝色鸢尾花种子",
+    },
+    "SeedDescriptionLocalization":
+    {
+        //"es": "",
+        "ko": "겨울에 심는다. 꽃이 피는데 14일 걸린다.",
+        "de": "Sähen im Winter. Es brauch 14 Tage Zeit, um eine winzige schöne Blume zu produzieren.",
+		"fr": "À planter en hiver. Il faudra 14 jours pour arriver à maturité.",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        //"pt": "i",
+        "ru": "Сажайте зимой. Через 14 дней вырастает прекрасный голубой цветок.",
+        //"tr": "",
+        "zh": "在冬天种植，需要14天长出美丽的小花",
+    }
+}

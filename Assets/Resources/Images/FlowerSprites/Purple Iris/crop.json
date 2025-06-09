@@ -1,0 +1,53 @@
+{
+    "Name": "Purple Iris",
+    "Product": "Purple Iris",
+    "SeedName": "Purple Iris Seeds",
+    "SeedDescription": "Plant them in spring. Take 7 days to produce a beautiful flower.",
+    "Type": "Flower",
+
+    "Seasons": ["spring"],
+    "Phases": [1, 1, 1, 2, 2],
+    "RegrowthPhase": -1,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus": {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 1,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0,
+    },
+
+    "SeedPurchasePrice": 50,
+    "SeedPurchaseRequirements": [
+    	"y 2",
+],
+    "SeedNameLocalization":
+    {
+        //"es": "",
+        "ko": "보라색 붓꽃 구근",
+        "de": "Lila Irissamen",
+		"fr": "Graines d'iris pourpre",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        //"pt": "i",
+        "ru": "Семена пурпурного ириса",
+        //"tr": "",
+        "zh": "紫色鸢尾花种子",
+    },
+    "SeedDescriptionLocalization":
+    {
+        //"es": "",
+        "ko": "봄에 심는다. 꽃이 피는데 7일 걸린다.",
+        "de": "Sähen im Frühjahr. Es brauch 7 Tage Zeit, um eine schöne Blume zu produzieren.",
+		"fr": "À planter au printemps. Il faudra 7 jours pour arriver à maturité.",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        //"pt": "i",
+        "ru": "Сажайте весной. Через 7 дней вырастает красивый пурпурный цветок.",
+        //"tr": "",
+        "zh": "在春天种植，需要7天长出美丽的花朵",
+    }
+}

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e75691061f2fcdc439c5281f9009a4b2, type: 3}
+  m_Name: CeciliaFlower
+  m_EditorClassIdentifier: 
+  plantId: 02a2069f-4a05-48ee-a28d-a126b4c05cac
+  icon: {fileID: 21300000, guid: aca60b44daf13494c87a99094e2c8c73, type: 3}
+  plantName: Cecilia Flower
+  plantDescription: " Es famosa tanto por su belleza como por su rareza, y se ha
+    convertido en un s\xEDmbolo de esperanza y resistencia."
+  cost: 50
+  isStackable: 0
+  growSprites:
+  - {fileID: -1442038448, guid: 7d782aefd2ea98f4fa0d523ef03d443f, type: 3}
+  - {fileID: 1144735831, guid: 7d782aefd2ea98f4fa0d523ef03d443f, type: 3}
+  - {fileID: 1800239029, guid: 7d782aefd2ea98f4fa0d523ef03d443f, type: 3}
+  - {fileID: -408676737, guid: 7d782aefd2ea98f4fa0d523ef03d443f, type: 3}
+  - {fileID: -671390073, guid: 7d782aefd2ea98f4fa0d523ef03d443f, type: 3}
+  - {fileID: -2075515220, guid: 7d782aefd2ea98f4fa0d523ef03d443f, type: 3}
+  - {fileID: 839141310, guid: 7d782aefd2ea98f4fa0d523ef03d443f, type: 3}

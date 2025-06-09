@@ -1,0 +1,26 @@
+{
+    "Name": "snapdragon",
+    "Product": "snapdragon",
+    "SeedName": "snapdragon seeds",
+    "SeedDescription": "...",
+    "SeedTranslationKey": "snapdragon-seeds",
+    "Type": "Seeds",
+    "CropType": "Paddy",
+    "Seasons": ["fall"],
+    "Phases": [ 1, 2, 1, 2 ],
+    "RegrowthPhase": -1,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+	
+    "Bonus": {
+        "MinimumPerHarvest": 2,
+        "MaximumPerHarvest": 2,
+        "MaxIncreasePerFarmLevel": 0,
+        "ExtraChance": 0.0,
+    },
+		
+	"SeedPurchaseFrom": "None",
+    "SeedPurchasePrice": 50,
+	"SeedSellPrice": 15,
+}

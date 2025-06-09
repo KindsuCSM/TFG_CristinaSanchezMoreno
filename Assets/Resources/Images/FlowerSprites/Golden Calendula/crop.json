@@ -1,0 +1,54 @@
+{
+    "Name": "Golden Calendula",
+    "Product": "Golden Calendula",
+    "SeedName": "Golden Calendula Seeds",
+    "SeedDescription": "Plant them in summer. Take 7 days to produce a flower.",
+    "Type": "Flower",
+
+    "Seasons": ["summer"],
+    "Phases": [1, 1, 1, 2, 2],
+    "RegrowthPhase": -1,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus": {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 1,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0,
+    },
+
+    "SeedPurchaseFrom": "Harvey",
+    "SeedPurchasePrice": 20,
+    "SeedPurchaseRequirements": [
+    	"y 2",
+],
+    "SeedNameLocalization":
+    {
+        //"es": "",
+        "ko": "금잔화 씨앗",
+        "de": "Samen der Goldenen Ringelblume",
+		"fr": "Graines de souci",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        //"pt": "i",
+        "ru": "Семена золотой календулы",
+        //"tr": "",
+        "zh": "金盏草种子",
+    },
+    "SeedDescriptionLocalization":
+    {
+        //"es": "",
+        "ko": "여름에 심는다. 꽃이 피는데 7일 걸린다.",
+        "de": "Sähen im Sommer. Es brauch 7 Tage Zeit, um eine Blume zu produzieren.",
+		"fr": "À planter en été. Il faudra 7 jours pour produire une fleur.",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        //"pt": "i",
+        "ru": "Сажайте летом. Через 7 дней вырастает красивый оранжевый цветок.",
+        //"tr": "",
+        "zh": "在夏天种植，需要7天开花",
+    }
+}

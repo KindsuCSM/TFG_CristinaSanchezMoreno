@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e75691061f2fcdc439c5281f9009a4b2, type: 3}
+  m_Name: Dendrobium
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 7bd17df4f8f334345bb07d04a9f0c567, type: 3}
+  plantName: Dendrobium
+  plantType: 1
+  plantDescription: "Es un g\xE9nero de orqu\xEDdeas tropicales que incluye m\xE1s
+    de 1,500 especies, conocidas por su belleza ex\xF3tica, gran diversidad de formas
+    y colores, y por adaptarse a diversos climas."
+  cost: 30
+  isStackable: 0
+  growSprites: []

@@ -1,0 +1,52 @@
+{
+    "Name": "Pink Hollyhock",
+    "Product": "Pink Hollyhock",
+    "SeedName": "Pink Hollyhock Seeds",
+    "SeedDescription": "Plant them in spring, summer or fall. Take 18 days to produce a flower, and continue to produce after that",
+    "Type": "Flower",
+    "Seasons": ["spring", "summer", "fall"],
+    "Phases": [3, 3, 4, 4, 4],
+    "RegrowthPhase": 5,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus": {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 1,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0,
+    },
+
+    "SeedPurchasePrice": 120,
+    "SeedPurchaseRequirements": [
+    	"y 3",
+],
+    "SeedNameLocalization":
+    {
+        //"es": "",
+        "ko": "분홍 접시꽃 씨앗",
+        "de": "Rosa Stockrosensamen",
+		"fr": "Graines de rose trémière rose",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        //"pt": "i",
+        "ru": "Семена розовой мальвы",
+        //"tr": "",
+        "zh": "粉红蜀葵种子",
+    },
+    "SeedDescriptionLocalization":
+    {
+        //"es": "",
+        "ko": "봄, 여름, 가을에 심는다. 꽃이 피는데 18일 걸리며, 자란 후 계속 수확할 수 있다.",
+        "de": "Sähen im Frühjahr, Sommer oder Herbst. NEs brauch 18 Tage Zeit, um eine Blume zu produzieren, es werden danach noch mehr produziert.",
+		"fr": "À planter au printemps, en été ou en automne. Il faudra 18 jours pour arriver à maturité. Continuera de produire après cela.",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        //"pt": "i",
+        "ru": "Сажайте весной, летом или осенью. Вырастает через 18 дней и продолжает цвести после первого сбора.",
+        //"tr": "",
+        "zh": "在春夏秋均可种植，需要18天才能开花，之后反复收获",
+    }
+}

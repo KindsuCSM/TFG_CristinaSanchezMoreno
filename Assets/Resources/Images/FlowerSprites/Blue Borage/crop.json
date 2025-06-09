@@ -1,0 +1,50 @@
+{
+    "Name": "Blue Borage",
+    "Product": "Blue Borage",
+    "SeedName": "Blue Borage Seeds",
+    "SeedDescription": "Plant them in spring or summer. Take 8 days to produce star-shaped flowers, and edibles leaves.",
+    "Type": "Flower",
+    "Seasons": ["spring", "summer"],
+    "Phases": [1, 1, 2, 2, 2],
+    "RegrowthPhase": -1,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus": {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 1,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0,
+    },
+
+    "SeedPurchaseFrom": "Marnie",
+    "SeedPurchasePrice": 25,
+    "SeedNameLocalization":
+    {
+        //"es": "",
+        "ko": "푸른 보리지 씨앗",
+        "de": "Blaue Borretschsamen",
+		"fr": "Graines de bourrache",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        //"pt": "i",
+        "ru": "Семена огуречной травы",
+        //"tr": "",
+        "zh": "蓝琉璃种子",
+    },
+    "SeedDescriptionLocalization":
+    {
+        //"es": "",
+        "ko": "봄 또는 여름에 심는다. 꽃이 피는데 8일 걸리며, 잎은 식용할 수 있다.",
+        "de": "Sähen im Frühjahr oder Sommer. Es brauch  8 Tage für die erste Ernte und um sternförmige Blüten und essbare Blätter zu produzieren.",
+		"fr": "À planter au printemps. Il faudra 8 jours pour arriver à maturité et produire une fleur étoilée et des feuilles comestibles.",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        //"pt": "i",
+        "ru": "Сажайте весной или летом. Через 8 дней вырастает звездообразный цветок со съедобными листьями.",
+        //"tr": "",
+        "zh": "在春季或夏季种植。8天即可长出带有星形花朵和可食用的叶子的花",
+    }
+}

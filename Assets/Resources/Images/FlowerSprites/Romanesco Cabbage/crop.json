@@ -1,0 +1,53 @@
+{
+    "Name": "Romanesco Cabbage",
+    "Product": "Romanesco Cabbage",
+    "SeedName": "Romanesco Cabbage Seeds",
+    "SeedDescription": "Plant them in fall or winter. Take 14 days to produce.",
+    "Type": "Vegetable",
+
+    "Seasons": ["fall", "winter"],
+    "Phases": [2, 2, 3, 3, 4],
+    "RegrowthPhase": -1,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus": {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 1,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0,
+    },
+
+    "SeedPurchasePrice": 80,
+    "SeedPurchaseRequirements": [
+    	"y 2",
+],
+    "SeedNameLocalization":
+    {
+        //"es": "",
+        "ko": "로마네스코 브로콜리",
+        "de": "Romanesco Kohlsamen",
+		"fr": "Graines de chou romanesco",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        //"pt": "i",
+        "ru": "Семена капусты 'Романеско'",
+        //"tr": "",
+        "zh": "罗曼斯科白菜种子",
+    },
+    "SeedDescriptionLocalization":
+    {
+        //"es": "",
+        "ko": "가을 또는 겨울에 심는다. 꽃이 피는데 14일 걸린다.",
+        "de": "Sähen im Herbst oder Winter. Es brauch 14 Tage Zeit, um zu produzieren.",
+		"fr": "À planter en automne ou hiver. Il faudra 14 jours pour arriver à maturité.",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        //"pt": "i",
+        "ru": "Сажайте осенью или зимой. Вырастает через 14 дней.",
+        //"tr": "",
+        "zh": "在秋天或者冬天种植，需要14天成熟",
+    }
+}

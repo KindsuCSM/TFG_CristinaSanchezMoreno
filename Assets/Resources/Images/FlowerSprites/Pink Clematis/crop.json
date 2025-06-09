@@ -1,0 +1,53 @@
+{
+    "Name": "Pink Clematis",
+    "Product": "Pink Clematis",
+    "SeedName": "Pink Clematis Starter",
+    "SeedDescription": "Plant them in fall. Take 13 days to produce a flower and continue to produce after that.",
+    "Type": "Flower",
+    "Seasons": ["fall"],
+    "Phases": [2, 2, 2, 3, 4],
+    "RegrowthPhase": 5,
+    "HarvestWithScythe": false,
+    "TrellisCrop": true,
+    "Colors": null,
+    "Bonus": {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 1,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0,
+    },
+
+	"SeedPurchaseFrom": "Marnie",
+    "SeedPurchasePrice": 50,
+    "SeedPurchaseRequirements": [
+    	"y 3",
+],
+    "SeedNameLocalization":
+    {
+        //"es": "",
+        "ko": "분홍 클레마티스 씨앗",
+        //"de": "Rosa Clematis Samen",
+		"fr": "Treillis de clématite rose",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        //"pt": "i",
+        "ru": "Черенки розового клематиса",
+        //"tr": "",
+        "zh": "粉色铁线莲种子",
+    },
+    "SeedDescriptionLocalization":
+    {
+        //"es": "",
+        "ko": "가을에 심는다. 꽃이 피는데 13일 걸린다.",
+        "de": "Sähen im Herbst. Nehmen Es brauch 13 Tage Zeit, um eine Blüte zu produzieren, es werden dancah noch weitere produziert.",
+		"fr": "À planter en automne. Il faudra 13 jours pour produire une fleur. Continue de produire après cela.",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        //"pt": "i",
+        "ru": "Сажайте осенью. Вырастает через 13 дней и продолжает цвести после первого сбора.",
+        //"tr": "",
+        "zh": "在秋天种植，需要13天才能开花，之后反复收获",
+    }
+}

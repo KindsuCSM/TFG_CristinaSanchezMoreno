@@ -1,0 +1,25 @@
+{
+    "Name": "henna berry",
+    "Product": "henna berry",
+    "SeedName": "henna berry seeds",
+    "SeedDescription": "...",
+    "SeedTranslationKey": "hennaberry-seeds",
+    "Type": "Fruit",
+    "Seasons": ["summer"],
+    "Phases": [ 1, 1, 2, 2, 2 ],
+    "RegrowthPhase": 5,
+    "HarvestWithScythe": false,
+    "TrellisCrop": true,
+    "Colors": null,
+	
+    "Bonus": {
+        "MinimumPerHarvest": 2,
+        "MaximumPerHarvest": 2,
+        "MaxIncreasePerFarmLevel": 0,
+        "ExtraChance": 0.0,
+    },
+		
+	"SeedPurchaseFrom": "None",
+    "SeedPurchasePrice": 90,
+	"SeedSellPrice": 40,
+}

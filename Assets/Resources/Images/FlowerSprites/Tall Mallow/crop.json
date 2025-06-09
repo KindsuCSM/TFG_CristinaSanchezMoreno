@@ -1,0 +1,53 @@
+{
+    "Name": "Tall Mallow",
+    "Product": "Tall Mallow",
+    "SeedName": "Tall Mallow Seeds",
+    "SeedDescription": "Plant them in summer. Take 10 days to produce a flower and continue to produce after that.",
+    "Type": "Flower",
+    "Seasons": ["summer"],
+    "Phases": [1, 1, 2, 2, 4],
+    "RegrowthPhase": 5,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus": {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 1,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0,
+    },
+
+	"SeedPurchaseFrom": "Marnie",
+    "SeedPurchasePrice": 50,
+    "SeedPurchaseRequirements": [
+    	"f Marnie 750",
+],
+    "SeedNameLocalization":
+    {
+        //"es": "",
+        "ko": "당아욱 씨앗",
+        "de": "Hohe Malvensamen",
+		"fr": "Graines de mauve sylvestre",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        //"pt": "i",
+        "ru": "Семена высокорослой мальвы",
+        //"tr": "",
+        "zh": "高锦葵种子",
+    },
+    "SeedDescriptionLocalization":
+    {
+        //"es": "",
+        "ko": "여름에 심는다. 꽃이 피는데 10일 걸리며, 자란 후 계속 수확할 수 있다.",
+        "de": "Sähen im Sommer. Es brauch 10 Tage Zeit, um eine Blume zu produzieren, es werden danach noch weitere produziert",
+		"fr": "À planter en été. Il faudra 10 jours pour produire une fleur. Continue de produire après cela.",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        //"pt": "i",
+        "ru": "Сажайте летом. Вырастает через 10 дней и продолжает цвести после первого сбора.",
+        //"tr": "",
+        "zh": "在夏天种植，需要10天才能开花，之后反复收获",
+    }
+}

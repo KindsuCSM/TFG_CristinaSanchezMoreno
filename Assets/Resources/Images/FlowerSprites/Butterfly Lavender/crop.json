@@ -1,0 +1,55 @@
+{
+    "Name": "Butterfly Lavender",
+    "Product": "Butterfly Lavender",
+    "SeedName": "Butterfly Lavender Seeds",
+    "SeedDescription": "Plant them in summer. Take 9 days to produce a flower.",
+    "Type": "Flower",
+
+    "Seasons": ["summer"],
+    "Phases": [1, 2, 2, 2, 2],
+    "RegrowthPhase": -1,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus": {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 3,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0,
+    },
+
+    "SeedPurchaseFrom": "Harvey",
+    "SeedPurchasePrice": 60,
+    "SeedPurchaseRequirements": [
+    	"y 2",
+	],
+	
+    "SeedNameLocalization":
+    {
+        //"es": "",
+        "ko": "나비 라벤더 씨앗",
+        "de": "Schmetterling Lavendel Samen",
+		"fr": "Graines de lavande papillon",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        //"pt": "i",
+        "ru": "Семена лаванды 'Бабочка'",
+        //"tr": "",
+        "zh": "蝴蝶薰衣草种子",
+    },
+    "SeedDescriptionLocalization":
+    {
+        //"es": "",
+        "ko": "여름에 심는다. 꽃이 피는데 9일 걸린다.",
+        "de": "Sähen im Sommer. Es brauch 9 Tage Zeit, um eine Blume zu produzieren.",
+		"fr": "À planter en été. Il faudra 9 jours pour produire une fleur.",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        //"pt": "i",
+        "ru": "Сажайте летом. Через 9 дней вырастает красивый фиолетовый цветок.",
+        //"tr": "",
+        "zh": "在夏天种植，需要9天开出花朵",
+    }
+}

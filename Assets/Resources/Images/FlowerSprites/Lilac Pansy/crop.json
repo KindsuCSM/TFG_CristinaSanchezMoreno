@@ -1,0 +1,53 @@
+{
+    "Name": "Lilac Pansy",
+    "Product": "Lilac Pansy",
+    "SeedName": "Lilac Pansy Seeds",
+    "SeedDescription": "Plant them in winter. Take 6 days to produce a beautiful flower.",
+    "Type": "Flower",
+
+    "Seasons": ["winter"],
+    "Phases": [1, 1, 2, 2],
+    "RegrowthPhase": -1,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus": {
+        "MinimumPerHarvest": 2,
+        "MaximumPerHarvest": 3,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0,
+    },
+
+    "SeedPurchasePrice": 25,
+    "SeedPurchaseRequirements": [
+    	"z spring, z summer, z fall",
+],
+    "SeedNameLocalization":
+    {
+        //"es": "",
+        "ko": "라일락 팬지 씨앗",
+        "de": "Lila Stiefmütterchensamen",
+		"fr": "Graines de pensées lilas",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        //"pt": "i",
+        "ru": "Семена сиреневых анютиных глазок",
+        //"tr": "",
+        "zh": "丁香三色堇种子",
+    },
+    "SeedDescriptionLocalization":
+    {
+        //"es": "",
+        "ko": "겨울에 심는다. 꽃이 피는데 6일 걸린다.",
+        "de": "Sähen im Winter. Es brauch 6 Tage Zeitm, um eine schöne Blume zu produzieren.",
+		"fr": "À planter en hiver. Il faudra 6 jours pour arriver à maturité.",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        //"pt": "i",
+        "ru": "Сажайте зимой. Через 6 дней вырастает красивый сиреневый цветок.",
+        //"tr": "",
+        "zh": "在冬天种植，需要6天长出美丽的花朵",
+    }
+}
