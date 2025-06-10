@@ -10,6 +10,7 @@ public class GameManager : MonoBehaviour
     public TileManager tileManager;
     public GameObject inventoryPanel;
     public Button btnSave;
+    public Button btnEraseJSON;
 
     public TaskList taskList = new TaskList();
 
@@ -37,6 +38,7 @@ public class GameManager : MonoBehaviour
         // Cargamos el juego desde el ultimo guardado
         WorldSave.Instance.LoadGame();
         SetButtonSaveListener(); // Inicializamos el btn con su listener para guardar partida
+        SetButtonEraseListener();
     }
 
 
@@ -66,5 +68,10 @@ public class GameManager : MonoBehaviour
     {
         btnSave.onClick.AddListener(() => WorldSave.Instance.SaveGame());
 
+    }
+
+    private void SetButtonEraseListener()
+    {
+        btnEraseJSON.onClick.AddListener(() => WorldSave.Instance.DeleteFile());
     }
 }

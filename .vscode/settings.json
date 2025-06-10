@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Proyecto_Unity_CristinaSanchezMoreno_2.sln"
+    "dotnet.defaultSolution": "TFG_CristinaSanchezMoreno.sln"
 }

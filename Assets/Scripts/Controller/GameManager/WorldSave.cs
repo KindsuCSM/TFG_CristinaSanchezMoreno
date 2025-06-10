@@ -185,4 +185,20 @@ public class WorldSave : MonoBehaviour
 
         Debug.Log("Juego cargado");
     }
+
+    public void DeleteFile()
+    {
+        string path = Path.Combine(Application.persistentDataPath, saveFileName);
+
+        if (!File.Exists(path))
+        {
+            Debug.LogWarning("No hay archivo para eliminar");
+            return;
+        }
+        else
+        {
+            File.Delete(path);
+            Debug.Log("Archivo eliminado");
+        }
+    }
 }
